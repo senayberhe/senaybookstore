@@ -128,6 +128,7 @@ dmypy.json
 /config/media/
 !/config/media/.gitkeep
 
-/config/static/
-!/config/static/.gitkeep
-!/config/settings.py
+
+config/static/
+config/static/.gitkeep
+config/settings.py

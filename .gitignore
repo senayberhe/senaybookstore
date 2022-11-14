@@ -2,3 +2,4 @@
 docker-compose.yml
 config/settings.py
 db.sqlite3
+config/settings/.env

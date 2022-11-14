@@ -132,3 +132,4 @@ dmypy.json
 config/static/
 config/static/.gitkeep
 config/settings.py
+docker-compose.yml

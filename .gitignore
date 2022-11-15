@@ -135,3 +135,4 @@ config/settings.py
 config/settings/.env
 config/.env
 docker-compose.yml
+docker-compose-prod.yml

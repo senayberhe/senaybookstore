@@ -9,6 +9,7 @@ psycopg2-binary = "*"
 psycopg2 = "*"
 crispy-bootstrap5 = "*"
 django-allauth = "*"
+pillow = "*"
 
 [dev-packages]
 

@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+django = "*"
+psycopg2-binary = "*"
+psycopg2 = "*"
+crispy-bootstrap5 = "*"
+django-allauth = "*"
 
 [dev-packages]
 

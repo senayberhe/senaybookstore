@@ -21,7 +21,7 @@ services:
       - STRIPE_TEST_PUBLISHABLE_KEY=<pk_test_your_publishable_key_here>
       - STRIPE_TEST_SECRET_KEY=<sk_test_your_secret_key_here>
       - POSTGRES_HOST_AUTH_METHOD=trust
-      - DJANGO_SETTINGS_MODULE=config.settings
+      - DJANGO_SETTINGS_MODULE=config.settings.prod
       - NAME=postgres
       - USER=postgres
       - PASSWORD=postgres

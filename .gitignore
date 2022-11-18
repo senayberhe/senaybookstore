@@ -136,3 +136,4 @@ config/settings/.env
 config/.env
 docker-compose.yml
 docker-compose-prod.yml
+config/settings/secrets.json
